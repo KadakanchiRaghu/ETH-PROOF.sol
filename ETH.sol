@@ -19,7 +19,7 @@ contract MyToken {
 
      // public variables here
     string public tokenName = "GAMA";
-    string public tokenAbbrv = "GMA";
+    string public tokenAbbrv = "GM";
     uint public totalSupply = 0;
 
      // mapping variable here
