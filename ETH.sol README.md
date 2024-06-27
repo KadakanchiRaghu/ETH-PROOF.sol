@@ -13,6 +13,7 @@ Solidity is a programming language used for creating smart contracts on the Ethe
 Remix is an online Solidity IDE available at https://remix.ethereum.org/. it has the look of the visual studio code and can be used to get started with Web3 Development. Goto the before started website and create a new file with a .sol extension (eg.,Token.sol). Copy and paste the following code.
 
 '''javascript
+
 pragma solidity 0.8.18;
 
 contract MyToken {
@@ -48,3 +49,5 @@ press control+S to compile. Then deploy the contract by clicking "Deploy"and run
 ##  Authors
 
 Kadakanchi Raghu
+
+This Project is Licensed under the MIT license- see the LICENSE.md file for more details
